@@ -1,0 +1,14 @@
+{
+  "name": "api-helper",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/SDxBacon/api-helper.git",
+  "author": "SDxBacon <z141134553@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "dayjs": "^1.9.7",
+    "lodash": "^4.17.20",
+    "uuid": "^8.3.2"
+  }
+}
